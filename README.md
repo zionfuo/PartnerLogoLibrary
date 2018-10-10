@@ -16,6 +16,6 @@
 ## 赞助项目
 ![](https://i.imgur.com/HqQga7g.jpg)
 
-Bitcoin:1DJqxhGAD4kfsbfyCBEjKicJkGfj6UuRth
-Bytom:bm1qcdeu8sx7ewgvr56cfanq5lhm2vwqxc740w3mz6
-Ethereum:0x65383035346b6d44B90f9F45007F0E2eb655BB74
+- Bitcoin:1DJqxhGAD4kfsbfyCBEjKicJkGfj6UuRth
+- Bytom:bm1qcdeu8sx7ewgvr56cfanq5lhm2vwqxc740w3mz6
+- Ethereum:0x65383035346b6d44B90f9F45007F0E2eb655BB74
