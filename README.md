@@ -10,8 +10,7 @@
 
 ## logo提交方式
 
-1. Github提交
-2. 邮箱发送至zionfuo@gmail.com
+Github issues 提交
 
 ## 赞助项目
 ![](https://i.imgur.com/HqQga7g.jpg)
